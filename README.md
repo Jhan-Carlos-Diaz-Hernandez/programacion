@@ -1,3 +1,1 @@
-# programacion
-
 El cliente requiere de un sistema que mantenga un control sobre los pañuelos que vende en su tienda, que registre en una base de datos la fecha y hora, la cantidad, el precio, el dinero que recibe del comprador y el que devuelve de vuelto en caso de ser necesario.
